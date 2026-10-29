@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # LOOTSWAP
 >>>>>>> 324d02a3abef16ed70bc403b1b3573ed1413acba
+
+
+git clone https://github.com/hdsn211/LOOTSWAP.git
