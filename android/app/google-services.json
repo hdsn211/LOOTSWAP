@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557404429223",
+    "project_id": "lootswap-3878b",
+    "storage_bucket": "lootswap-3878b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557404429223:android:5f35ff87c632162acdb482",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSahJBy8QJ99R5uqRNUa8NGU18NT0RLOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

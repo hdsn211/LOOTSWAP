@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userName": "dragonKing",
+      "itemName": "Dragon Shield",
+      "itemImage": "https://example.com/dragon-shield.png",
+      "rarity": "Rare",
+      "category": "RPG Item",
+      "description": "A strong shield forged in the dragon dungeon.",
+      "isAvailable": true,
+      "tradeFor": "Mystic Sword"
+    },
+    {
+      "id": 2,
+      "userName": "arcaneMage",
+      "itemName": "Mystic Sword",
+      "itemImage": "https://example.com/mystic-sword.png",
+      "rarity": "Epic",
+      "category": "RPG Item",
+      "description": "A magical blade that glows with arcane energy.",
+      "isAvailable": true,
+      "tradeFor": "Dragon Shield"
+    },
+    {
+      "id": 3,
+      "userName": "shadowRunner",
+      "itemName": "Shadow Cloak",
+      "itemImage": "https://example.com/shadow-cloak.png",
+      "rarity": "Epic",
+      "category": "Cosmetic",
+      "description": "A stealth-focused cloak favored by rogue players.",
+      "isAvailable": true,
+      "tradeFor": "Arcane Ring"
+    },
+    {
+      "id": 4,
+      "userName": "stormCaller",
+      "itemName": "Arcane Ring",
+      "itemImage": "https://example.com/arcane-ring.png",
+      "rarity": "Rare",
+      "category": "Accessory",
+      "description": "A ring charged with lightning magic and high power.",
+      "isAvailable": true,
+      "tradeFor": "Shadow Cloak"
+    }
+  ]
+}
